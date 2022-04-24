@@ -14,7 +14,7 @@ Convert all passed images into a single pdf file
 
 * Free software: MIT license
 
-Instalation
+Installation
 -----------
 
 .. code-block:: shell
