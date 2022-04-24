@@ -14,6 +14,13 @@ Convert all passed images into a single pdf file
 
 * Free software: MIT license
 
+Instalation
+-----------
+
+.. code-block:: shell
+
+        pip install images-to-pdf
+
 
 Usage
 --------

@@ -39,11 +39,11 @@ setup(
     long_description=readme + "\n\n" + history,
     include_package_data=True,
     keywords="images_to_pdf",
-    name="images_to_pdf",
+    name="images-to-pdf",
     packages=find_packages(include=["images_to_pdf", "images_to_pdf.*"]),
     test_suite="tests",
     tests_require=test_requirements,
-    url="https://github.com/lucas8107/images_to_pdf",
+    url="https://github.com/lucas8107/images-to-pdf",
     version="0.1.0",
     zip_safe=False,
 )
