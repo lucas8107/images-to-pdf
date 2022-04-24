@@ -4,10 +4,11 @@ import click
 
 
 @click.command()
-@click.argument('image_files', nargs=-1, type=click.File('r'))
-def main(image_files):
+def main(args=None):
     """Console script for images_to_pdf."""
-    print(image_files)
+    click.echo("Replace this message by putting your code into "
+               "images_to_pdf.cli.main")
+    click.echo("See click documentation at https://click.palletsprojects.com/")
     return 0
 
 
